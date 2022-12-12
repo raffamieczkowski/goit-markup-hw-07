@@ -15,8 +15,7 @@
     line-height: 1.19;
     letter-spacing: 0.03em;
     color: var(--main-blue);
-  }
-  .footer__logo--white {
+&--white {
     font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -25,3 +24,4 @@
     letter-spacing: 0.03em;
     color: var(--main-white);
   }
+}
